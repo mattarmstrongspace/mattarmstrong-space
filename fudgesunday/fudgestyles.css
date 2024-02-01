@@ -39,5 +39,10 @@
     text-decoration: none;
   }
 
-  
+    p {
+    margin: 1;
+    text-align: justify;
+    padding: 0;
+
+  }
 
